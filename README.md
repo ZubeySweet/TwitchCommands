@@ -1,10 +1,10 @@
 # TwitchCommands and The PointSystem
 ---------General Commands---------
-!uptime - Shows how long I have been live
-!commands - Shows the link to this page 
-!followage - Tells you how long you have been following the channel
-!Watchtime - Shows how many hours/min you have spent watching ZubeySweet
-!Subscribe - Shows a direct link to Subscribe to the channel (!sub also works)
+*!uptime - Shows how long I have been live
+*!commands - Shows the link to this page 
+*!followage - Tells you how long you have been following the channel
+*!Watchtime - Shows how many hours/min you have spent watching ZubeySweet
+*!Subscribe - Shows a direct link to Subscribe to the channel (!sub also works)
 
 -----------POINTS COMMANDS and PointSystem Explination-------
 Points are given via various means to viewers and can be used to..
